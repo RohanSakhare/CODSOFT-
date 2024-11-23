@@ -1,0 +1,199 @@
+/* section header start  */
+body {
+    font-family: Poppins;
+}
+
+
+#header .image {
+    height: 60px;
+    width:180px;
+}
+
+#header .img {
+    height: 800px;
+}
+
+
+#header .contact_us,
+#about_us .contact_us,
+#about_us .img_body,
+#quote .contact_us,
+#quote .submit {
+    background-color: #fd5f17;
+}
+
+#header .phone,
+#contact .phone {
+    color: #fd5f17;
+    font-size: 40px;
+
+}
+
+#header .head_navbar {
+    position: absolute;
+}
+
+#header .header_items {
+    z-index: 1;
+}
+
+#header #carouselExampleControls {
+    z-index: 0;
+}
+
+
+/* section header end  */
+
+/* section about us start  */
+#about_us,
+#testimonials,
+#quote .info {
+    background-color: #f0fbff;
+}
+
+#about_us .tick,
+#about_us .about_text,
+#services .about_text,
+#services .icon,
+#services .links,
+#features .about_text,
+#features .icon,
+#testimonials .about_text,
+#testimonials .icon,
+#projects .about_text,
+#team .about_text,
+#team .duty,
+#quote .tick,
+#news .about_text,
+#footer .icon {
+    color: #fd5f17;
+}
+
+
+
+.front-title {
+    color: #131e4a;
+}
+
+#about_us .contact_button{
+    border:3px solid #fd5f17;
+}
+
+#about_us .gallery {
+     height: 530px;
+     background-color: #f0fbff;
+}
+/* section about us end  */
+
+/* section compamy services start  */
+
+#services {
+    background-color: #fbfbfc;
+}
+
+#services .read,
+#news .read {
+    text-decoration: none;
+}
+
+/* section compamy services end  */
+
+/* section features start  */
+
+#features,
+#features .feature_background {
+    background-color: #131e4a;
+}
+
+/* section services end  */
+/* section testimonials start   */
+#testimonials .test {
+    background-image: url('../img/testimonials-bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+#testimonial .comment {
+    font-family: Quicksand;
+}
+
+/* section testimonials end  */
+
+/* section projects start  */
+
+#projects .project_backgroud {
+    background-image: url('../img/featured-project-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#projects .drower {
+    margin-top: 250px;
+}
+
+#projects .sector {
+    background-color: #fd5f17;
+}
+
+#projects .sector2 {
+    background-color: #f84f02;
+}
+
+/* section projects end  */
+
+/* section quote start  */
+
+#quote .title{
+    margin-top:200px;
+}
+
+#quote .form {
+    left: 45%;
+    bottom: 13%;
+    padding-right: 56px;
+}
+
+#quote .info {
+    padding-right: 240px;
+    padding-left: 50px;
+    padding-bottom: 60px;
+}
+
+#quote .service {
+    margin-bottom: 100px;
+}
+
+#quote .contact_button {
+    border:3px solid #fd5f17;
+}
+
+/* section quote end  */
+/* section contact us start  */
+#contact .contact_us {
+    background-color: #131e4a;
+}
+
+/* section contact us end  */
+
+/* section footer start  */
+#footer {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#footer .icon {
+    left: 220px;
+    top: 30px;
+    font-size: 25px;
+}
+
+#footer .footer_background {
+    background-image: url('../img/dots.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #f7f9fb;
+}
+
+/* section footer end  */

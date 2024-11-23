@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#header {
+    height: 100vh; 
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    background-color: #18cc9c;
+}
+
+
+
+.card {
+    border-radius: 15px;
+}
+
+#display {
+    height: 60px;
+    font-size: 1.5rem;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}

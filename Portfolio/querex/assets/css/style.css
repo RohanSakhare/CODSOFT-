@@ -1,0 +1,101 @@
+/* section header start  */
+
+
+#header .que {
+    background-color: #ebebeb;
+    border: none;
+    border-radius: 0px;
+    color: black;
+    padding: 7px 20px;
+    font-weight: 700;
+}
+
+/* section header end  */
+/*  section slider start */
+
+#slide .img {
+    width: 100%;
+    position: relative;
+}
+
+#slide .hero {
+    position: absolute;
+    top: 50%;
+    left: 33%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+#slide .head {
+    font-size: 80px;
+}
+
+#slide .btn {
+    background-color: #f39b00;
+    border: none;
+    border-radius: 0px;
+    padding: 10px 30px;
+}
+
+/* section slider end  */
+
+/* section about start  */
+#about .title {
+    font-size: 55px;
+}
+
+#about .row .read {
+    border-radius: 0px;
+}
+
+/* section about end  */
+/* section products start  */
+#product .border {
+    border-bottom: 1px solid gray;
+}
+
+/* section products end  */
+
+
+/* section news start  */
+#news .title_two {
+    font-size: 60px;
+}
+
+#news .label {
+    margin-left: 57px;
+    width: 527px;
+}
+
+/* section news end  */
+
+/* section footer start  */
+
+#foot .background {
+    background-image: linear-gradient(to right, red, yellow);
+    height: 250px;
+}
+
+#foot .poster {
+    height: 240px;
+    width: 100%;
+}
+
+#foot .retro {
+    border-right: 1px solid gray;
+    height: 20px;
+}
+
+#foot .view {
+    background-color: #01b671;
+    padding: 5px 30px;
+    border: none;
+}
+
+#foot .top {
+    margin-right: 40px;
+    margin-top: 80px;
+    border-radius: 0px;;
+}
+
+/* section footer end  */
